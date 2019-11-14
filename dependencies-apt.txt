@@ -1,3 +1,2 @@
 iputils-ping
-pip
 
